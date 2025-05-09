@@ -1,2 +1,2 @@
 # NAOEL
-This is a Expanded library for NAO Robot (Witten in Python)
+This is an expanded library for NAO Robot (written in Python).
